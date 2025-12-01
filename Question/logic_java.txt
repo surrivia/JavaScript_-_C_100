@@ -1,0 +1,100 @@
+1. Write a function that returns the largest of three numbers.
+2. Check if a number is prime.
+3. Count vowels in a string.
+4. Reverse a string without using built-in reverse().
+5. Find the longest word in a sentence.
+6. Check if two strings are anagrams.
+7. Remove duplicates from an array.
+8. Find the second largest number in an array.
+9. Count occurrences of each element in an array.
+10. Flatten a nested array.
+11. Check if a string is a palindrome.
+12. Generate Fibonacci up to n terms.
+13. Find the factorial of a number.
+14. Sum all numbers in a multidimensional array.
+15. Merge two sorted arrays into one sorted array.
+16. Find common elements between two arrays.
+17. Rotate an array by k positions.
+18. Check if an array is sorted.
+19. Find missing number in 1–n sequence.
+20. Find intersection of two sorted arrays.
+21. Convert Roman numeral to integer.
+22. Convert integer to Roman numeral.
+23. Implement binary search.
+24. Sort an array without using sort().
+25. Find unique elements that appear once.
+26. Count how many times a digit appears in a number.
+27. Find the longest substring without repeating characters.
+28. Generate all permutations of a string.
+29. Generate all subsets of an array.
+30. Implement a queue using two stacks.
+31. Implement a stack using two queues.
+32. Check if brackets are balanced.
+33. Find GCD of two numbers.
+34. Find LCM of two numbers.
+35. Convert a number to binary.
+36. Convert binary to decimal.
+37. Write your own map() function.
+38. Write your own filter() function.
+39. Write your own reduce() function.
+40. Find the first non-repeating character in a string.
+41. Remove falsy values from an array.
+42. Shuffle elements of an array.
+43. Deep clone an object.
+44. Count words in a paragraph.
+45. Implement debounce().
+46. Implement throttle().
+47. Simulate a traffic light using setInterval.
+48. Check if two objects have the same keys.
+49. Compare two objects deeply.
+50. Implement memoization.
+51. Find the majority element in an array.
+52. Write a function that delays execution using Promises.
+53. Capitalize each word in a sentence.
+54. Convert snake_case to camelCase.
+55. Convert camelCase to snake_case.
+56. Implement binary search tree insertion.
+57. Find min/max in a BST.
+58. Count nodes in a BST.
+59. Invert a binary tree.
+60. Validate a Sudoku board.
+61. Group words by anagrams.
+62. Find the longest increasing subsequence.
+63. Find pair with target sum.
+64. Find triplet with target sum.
+65. Move zeroes to the end of array.
+66. Implement bubble sort.
+67. Implement selection sort.
+68. Implement insertion sort.
+69. Implement merge sort.
+70. Implement quick sort.
+71. Find the kth smallest element.
+72. Check if number is Armstrong.
+73. Count digits in a number.
+74. Generate random password.
+75. Simulate coin toss probability.
+76. Find sum of digits of a number.
+77. Remove specific characters from a string.
+78. Reverse an integer.
+79. Validate email format.
+80. Validate password strength.
+81. Extract numbers from a string.
+82. Find smallest positive missing integer.
+83. Implement event emitter.
+84. Simulate a call stack.
+85. Evaluate postfix expression.
+86. Evaluate prefix expression.
+87. Implement LRU cache.
+88. Detect cycle in a linked list.
+89. Remove duplicates from linked list.
+90. Reverse a linked list.
+91. Find middle of linked list.
+92. Merge two linked lists.
+93. Detect loop in a graph.
+94. Topological sorting.
+95. Count connected components in graph.
+96. BFS traversal.
+97. DFS traversal.
+98. Find shortest path in unweighted graph.
+99. Find shortest path in weighted graph.
+100. Detect palindrome in linked list.

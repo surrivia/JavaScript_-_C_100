@@ -1,0 +1,108 @@
+100 JavaScript Logic Questions
+100 Logic Questions on JavaScript
+Compiled for interviews, practice, and deep understanding
+
+=== Basic & Fundamental (1–20) ===
+1. What is the output of console.log(typeof typeof 1)?
+2. What will [] == ![] evaluate to? Why?
+3. Explain the difference between == and ===.
+4. What is hoisting in JavaScript? Show with var, let, and function.
+5. What is the output of console.log(0.1 + 0.2 === 0.3)?
+6. Why does "5" + 3 give "53" but "5" - 3 gives 2?
+7. What is the value of [] + {} and {} + [] in console vs in a script?
+8. What happens when you write var a = b = 5; ?
+9. Difference between null and undefined?
+10. What does NaN === NaN return? How to check for NaN correctly?
+11. What is the output of console.log(3 > 2 > 1)?
+12. List all 6 falsy values and explain truthy/falsy.
+13. Why [] == false is true but if([]) is also true?
+14. What do +[], +{}, +![] evaluate to?
+15. Why can't we permanently add properties to primitive strings?
+16. What is the Temporal Dead Zone (TDZ)?
+17. What is this in (function(){ return this; })() in strict vs non-strict?
+18. What does the delete operator do on variables vs object properties?
+19. What is the arguments object? Why is it discouraged now?
+20. Difference in hoisting: function declaration vs function expression.
+
+=== Closures & Scope (21–40) ===
+21. Write a closure that remembers its creation-time argument.
+22. Explain the module pattern using IIFE and closure.
+23. Classic for-loop + setTimeout with var → prints 5 five times. Fix with let and with closure.
+24. Create a private counter using closure.
+25. Real-world use of closures in event handlers.
+26. Explain lexical scope with example.
+27. Predict output: var x=10; function foo(){ console.log(x); var x=20; } foo();
+28. Implement a once() function that runs another function only once.
+29. How can closures cause memory leaks?
+30. setTimeout in loops – common pitfalls and fixes.
+31. Private methods using closures (pre-ES6).
+32. Explain why createAdder works (currying via closure).
+33–40. Implement using closures: memoize, simple curry, throttle, debounce, pipe, compose, tiny event emitter.
+
+=== this Keyword (41–55) ===
+41. Value of this in global scope (strict vs non-strict).
+42. this in regular function vs arrow function.
+43. this in object methods.
+44. Why obj.method() works but const fn = obj.method; fn(); loses context.
+45. Fix lost this with bind, call, apply.
+46. this inside arrow function defined in object method.
+47. What exactly does the new keyword do?
+48. Constructor functions and prototype methods.
+49. Preserving this in callbacks (pre-arrow era).
+50. this in DOM addEventListener callbacks.
+51. Implicit vs explicit binding vs new binding vs arrow.
+52. obj.method.call(null) – what is this?
+53. Array.prototype.push.call("hello", "!")
+54. Hard binding example.
+55. Calling constructor without new – what happens to this?
+
+=== Prototypes & Inheritance (56–70) ===
+56. What is the prototype chain?
+57. Difference between __proto__ and .prototype.
+58. What does Object.create() do?
+59. How does instanceof work internally?
+60. [] instanceof Array and [] instanceof Object.
+61. Classical inheritance with prototypes (pre-class syntax).
+62. Why Array.prototype is [] but Function.prototype is a function.
+63. Object.prototype.toString.call([1,2,3])
+64. hasOwnProperty vs in operator.
+65. Dangers of modifying built-in prototype modification.
+66. Prototype pollution vulnerability.
+67. ES6 class syntax is still prototypes under the hood.
+68. Prototype property updated after instance creation.
+69. Why arrow functions cannot be constructors.
+70. Object.freeze() – shallow or deep?
+
+=== Async JavaScript (71–90) ===
+71. Explain event loop, microtasks, macrotasks.
+72. Predict output: console.log(1); setTimeout(2,0); Promise.then(3); console.log(4);
+73. Three states of a Promise.
+74. async/await is syntactic sugar for what?
+75. Unhandled promise rejections.
+76. Return value of async function.
+77. Promise.all, Promise.race, Promise.any, Promise.allSettled.
+78. Implement simple Promise.all.
+79. Ways to enqueue microtasks.
+80. Why setTimeout(...,0) is never truly zero.
+81. Predict async/await execution order with await.
+82. Callback hell → Promises → async/await.
+83. queueMicrotask() usage.
+84. Node.js process.nextTick vs setTimeout.
+85. requestAnimationFrame in event loop.
+86. Cancelling promises (AbortController).
+87. Top-level await in modules.
+88–90. More complex async ordering questions with nested promises and timeouts.
+
+=== Tricky & Advanced (91–100) ===
+91. What problem do Symbols solve?
+92. Map vs plain object as key-value store.
+93. WeakMap / WeakSet – when and why.
+94. Proxy and Reflect – practical use case.
+95. Generator functions and yield.
+96. BigInt creation and purpose.
+97. Why 9999999999999999 === 10000000000000000 is false.
+98. Object.is() vs ===.
+99. Tagged template literals advanced use.
+100. Explain {} + [] + {} + [1] and why console vs script differ.
+
+Happy practicing! Good luck with your interviews

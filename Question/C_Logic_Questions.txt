@@ -1,0 +1,66 @@
+100 C Logic Questions (Beginner to Advanced)
+
+BEGINNER (1–25) 1. Print your name without using printf(“name”)
+directly. 2. Take two numbers and print their sum. 3. Check if a number
+is even or odd without using %. 4. Find the largest of three numbers. 5.
+Print numbers from 1 to 100 using a loop. 6. Print the multiplication
+table of any number. 7. Count digits of a number. 8. Reverse the digits
+of a number. 9. Check if a number is palindrome. 10. Check if a
+character is vowel or consonant. 11. Convert lowercase to uppercase
+manually. 12. Swap two numbers using a third variable. 13. Swap two
+numbers without a third variable. 14. Check if a number is positive,
+negative, or zero. 15. Calculate the sum of digits of a number. 16.
+Print Fibonacci series up to N elements. 17. Find factorial of a number.
+18. Check if a number is prime. 19. Generate prime numbers from 1 to N.
+20. Calculate power of a number without using pow(). 21. Count spaces in
+a string. 22. Count vowels and consonants in a string. 23. Find the
+ASCII value of any character. 24. Read 5 numbers and find the largest.
+25. Check if a year is leap year.
+
+INTERMEDIATE (26–60) 26. Reverse a string without using strrev(). 27.
+Check if two strings are anagrams. 28. Sort an array (bubble sort). 29.
+Sort an array (selection sort). 30. Find second largest element in
+array. 31. Remove duplicates from an array. 32. Count frequency of each
+element in array. 33. Merge two arrays into one. 34. Find sum of
+diagonal elements of a matrix. 35. Transpose a matrix. 36. Multiply two
+matrices. 37. Find GCD of two numbers (Euclid algorithm). 38. Find LCM
+of two numbers. 39. Convert decimal to binary. 40. Convert binary to
+decimal. 41. Convert decimal to hexadecimal. 42. Print all factors of a
+number. 43. Check if a number is Armstrong. 44. Generate Armstrong
+numbers from 1 to N. 45. Read N integers and count how many are
+positive, negative, zero. 46. Separate even and odd numbers into two
+arrays. 47. Insert an element at a specific index in an array. 48.
+Delete an element from an array. 49. Rotate array left by 1 position.
+50. Rotate array right by 1 position. 51. Find sum of first N natural
+numbers recursively. 52. Find factorial using recursion. 53. Print
+Fibonacci using recursion. 54. Reverse a string using recursion. 55.
+Find smallest and largest word in a sentence. 56. Count words in a
+sentence. 57. Replace all spaces with hyphens in a string. 58. Find the
+longest increasing subsequence (simple version). 59. Check if a number
+is strong number. 60. Generate Pascal’s triangle.
+
+ADVANCED (61–100) 61. Implement binary search. 62. Implement linear
+search without loops (recursion). 63. Check if an array is sorted or
+not. 64. Find missing number in 1…N sequence. 65. Find the first
+repeating element in an array. 66. Find the first non-repeating element
+in a string. 67. Implement stack using array. 68. Implement queue using
+array. 69. Implement circular queue. 70. Implement linked list (insert,
+delete, display). 71. Reverse a linked list. 72. Find middle element of
+linked list. 73. Detect loop in linked list (Floyd algorithm). 74. Count
+nodes in linked list. 75. Convert linked list to array. 76. Create
+binary tree using struct. 77. Traverse binary tree (inorder, preorder,
+postorder). 78. Find height of binary tree. 79. Count leaf nodes in
+binary tree. 80. Search in binary tree. 81. Implement binary search tree
+(insert, search). 82. Delete node from BST. 83. Check if two strings are
+rotations of each other. 84. Check if a string is valid email format
+(simple rules). 85. Implement basic calculator (+, -, *, /). 86.
+Evaluate postfix expression. 87. Convert infix to postfix. 88. Find all
+unique subsets of an array. 89. Find all permutations of a string. 90.
+Implement dynamic array (resize using realloc). 91. Read a file and
+count lines. 92. Copy content from one file to another. 93. Find word
+frequency in a file. 94. Remove comments from a C file. 95. Validate
+password strength based on rules. 96. Compare two files and show if
+identical. 97. Create a student management system
+(add/view/delete/search). 98. Simple banking system with
+deposit/withdrawal. 99. Implement bubble sort using pointers only. 100.
+Create your own strlen() function using pointer arithmetic.
